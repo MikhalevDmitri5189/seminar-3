@@ -40,8 +40,9 @@
     
     git log-список коммитов.
 
-    git log --oneline-
-    git log --all
+    git log --oneline -покажет все ваши коммиты только спервой частью хэша и сообщением фиксации.
+
+    git log --all -
     git log --all --oneline
     git checkout <hash>
     git checkout master

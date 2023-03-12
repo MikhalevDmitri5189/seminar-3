@@ -38,8 +38,9 @@
 
     git diff <hash1> <hash2>-изменения между двумя коммитами.
     
-    git log-
-    git log --oneline
+    git log-список коммитов.
+
+    git log --oneline-
     git log --all
     git log --all --oneline
     git checkout <hash>

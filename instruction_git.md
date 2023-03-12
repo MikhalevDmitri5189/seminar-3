@@ -42,7 +42,7 @@
 
     git log --oneline -покажет все ваши коммиты только спервой частью хэша и сообщением фиксации.
 
-    git log --all -
-    git log --all --oneline
+    git log --all -покажет все коммиты.
+    git log --all --oneline -покажет все коммиты только спервой частью хэша и сообщением фиксации.
     git checkout <hash>
     git checkout master

@@ -24,7 +24,7 @@
 
 ## Фиксация изменений
 
-    git init
+    git init {имя проекта}-создать новый репозиторий.
     git add <failname>
     git commit -m "message"
     git commit -a

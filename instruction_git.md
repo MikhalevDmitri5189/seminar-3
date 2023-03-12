@@ -26,8 +26,8 @@
 
     git init {имя проекта}-создать новый репозиторий.
     git add <failname>-добавить фаил виндекс.
-    git commit -m "message"-
-    git commit -a
+    git commit -m "message"-закоммитить добавленные в индекс файлы с сообщением.
+    git commit -a -совершит коммит,автоматически индексируя
     git commit -am "message"
     git diff
     git diff <hash1> <hash2>

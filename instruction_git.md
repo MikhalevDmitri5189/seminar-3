@@ -34,9 +34,11 @@
     
     git commit -am "message"-закоммитить все фаилы сообщением.
 
-    git diff-
-    git diff <hash1> <hash2>
-    git log
+    git diff-изменения в еще не добавленных в индекс файлов.
+
+    git diff <hash1> <hash2>-изменения между двумя коммитами.
+    
+    git log-
     git log --oneline
     git log --all
     git log --all --oneline

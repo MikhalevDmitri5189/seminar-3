@@ -32,8 +32,9 @@
 
     git commit -a -совершит коммит,автоматически индексируя изменения в фаилах проекта. Новые фаилы при этом индексироваться не будут! Удаление же фаилов будет учтено.
     
-    git commit -am "message"-
-    git diff
+    git commit -am "message"-закоммитить все фаилы сообщением.
+
+    git diff-
     git diff <hash1> <hash2>
     git log
     git log --oneline

@@ -62,7 +62,8 @@
  Для того чтобы посмотреть существующие ветки нужно выполнить команду:
  
      git branch
-
+### Переклячение с одной ветки на другую.
+Для переключения с одной ветки 
     git branch <branchname>
     git branch -d <branchname>
     git branch -D <branchname>

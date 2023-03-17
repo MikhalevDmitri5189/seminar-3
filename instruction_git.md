@@ -69,6 +69,7 @@
     git branch -D <branchname>
     git metge <branchname>
 
-    merge-конфликт
+   ## merge-конфликт
+   
     git log --graph
     git log --online --all --graph

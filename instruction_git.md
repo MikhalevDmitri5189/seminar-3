@@ -59,11 +59,10 @@
 
  ### Просмотр существующих веток.
 
- Для того чтобы посмотреть существующие веткинужно выполнить команду:
+ Для того чтобы посмотреть существующие ветки нужно выполнить команду:
  
      git branch
 
-    git branch
     git branch <branchname>
     git branch -d <branchname>
     git branch -D <branchname>

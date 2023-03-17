@@ -62,3 +62,13 @@
  Для того чтобы посмотреть существующие веткинужно выполнить команду:
  
      git branch
+
+    git branch
+    git branch <branchname>
+    git branch -d <branchname>
+    git branch -D <branchname>
+    git metge <branchname>
+
+    merge-конфликт
+    git log --graph
+    git log --online --all --graph

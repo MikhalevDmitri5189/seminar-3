@@ -71,6 +71,9 @@
 ### Удаление ветки.
 Для того что бы удалить ветку вводим команду:
 
+### Принудительное удаление ветки.
+
+
     git branch -d <branchname>
     git branch -D <branchname>
     git metge <branchname>

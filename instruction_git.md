@@ -70,6 +70,9 @@
     git metge <branchname>
 
    ## merge-конфликт
-   
+
+ ### Конфликты при слиянии веток
+ Конф
+
     git log --graph
     git log --online --all --graph

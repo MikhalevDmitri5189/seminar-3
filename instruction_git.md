@@ -67,7 +67,10 @@
 Для переключения с одной ветки на другую вводим команду:
 
     git branch <branchname>
+
 ### Удаление ветки.
+Для того что бы удалить ветку вводим команду:
+
     git branch -d <branchname>
     git branch -D <branchname>
     git metge <branchname>
